@@ -11,11 +11,3 @@ require_once base_path().'routes/web.php';
 
 app()->run();
 
-
-$array1 =[
-    'username'  => 'usman',
-    'email' => 'usman@gmail.com',
-];
-
-$array = new Arr();
-dd();
